@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 iMovies — Complete Full-Stack MERN Cinema Booking System
 
 A complete, feature-rich, full-stack **MERN (MongoDB, Express, React, Node.js)** cinema ticketing application featuring **real-time seat synchronization with Socket.IO**, role-based authentication (Customer & Admin), interactive seat maps, simulated checkout, printable e-tickets, and a full administration dashboard.
@@ -250,3 +251,7 @@ imovies-mern-project/
 ├── package.json                    # Root project orchestrator
 └── README.md                       # Documentation & full stack guide
 ```
+=======
+# mern-cinema-booking-system
+A full-stack Cinema Booking System built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Users can browse movies, view showtimes, and book movie tickets through an interactive user interface. The project demonstrates REST API integration, database management, and frontend-backend communication.
+>>>>>>> 815ba10614e285c594c0b8fdfb2123c85d9796ec
